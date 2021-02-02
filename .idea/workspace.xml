@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28c7e397-3963-41ba-b16f-77494ee3e3b3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1kGobw5k6IjMrdeTtYE2zU139M3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28c7e397-3963-41ba-b16f-77494ee3e3b3" name="Default Changelist" comment="" />
+      <created>1605336364029</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605336364029</updated>
+      <workItem from="1605336365052" duration="2499000" />
+      <workItem from="1605340398686" duration="1963000" />
+      <workItem from="1605344419642" duration="11000" />
+      <workItem from="1605344973676" duration="13000" />
+      <workItem from="1605344994310" duration="3000" />
+      <workItem from="1605374701775" duration="1314000" />
+      <workItem from="1605424651755" duration="653000" />
+      <workItem from="1605530071716" duration="12310000" />
+      <workItem from="1605607139356" duration="1055000" />
+      <workItem from="1605618809426" duration="1307000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="623" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1605538389779">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605538389779" />
+  </component>
+</project>
