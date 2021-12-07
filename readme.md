@@ -1,4 +1,4 @@
-#Licznik średniej do gdyńskiego e-dziennika
+# Licznik średniej do gdyńskiego e-dziennika
 ___________________________________________
 Dodatek do przeglądarki oblicza średnią z ocen i wyświetla ją w dodatkowej kolumnie.
 -------------------------------------------
